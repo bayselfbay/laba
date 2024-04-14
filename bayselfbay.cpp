@@ -4,7 +4,6 @@ using namespace std;
 int main() {
 	setlocale(LC_ALL, "rus");
 	float widht, hight, area, perimetr, diagonal;
-	//Ввод данных
 	cout << "Введите ширину прямоугольника" << endl;
 	cin >> widht;
 	cout << "Введите длину прямоугольника" << endl;
