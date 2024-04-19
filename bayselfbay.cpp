@@ -8,7 +8,6 @@ int main() {
 	cin >> widht;
 	wcout << L"Введите длину прямоугольника" << endl;
 	cin >> hight;
-	//Тест на дурака
 	if (widht <= 0 || hight <= 0) {
 		cout << "error" << endl;
 	return 0;
